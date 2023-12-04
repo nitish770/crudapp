@@ -1,0 +1,37 @@
+.maindiv{
+    background-color: blueviolet;
+    width: 100vw;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.logo{
+    margin-left: 20px;
+    
+}
+.logo img{
+    border-radius: 50%;
+    width: 71px;
+    height: 54px;
+}
+.searchs{
+    
+    margin-right: 100px;
+}
+.searchs input{
+    margin-right: -40px;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    width: 350px;
+    height: 20px;
+    padding: 20px;
+}
+/* .sercIcon{
+    font-size: 20px;
+    margin-right: 20px;
+} */
+
